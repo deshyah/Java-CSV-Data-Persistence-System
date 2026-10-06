@@ -27,7 +27,7 @@ This application implements a lightweight object persistence engine in Java desi
 ---
 
 ### UML Design
-<img width="1066" height="628" alt="Lab1 UML" src="https://github.com/user-attachments/assets/3a4af07c-5913-40f8-b136-0fefbf02f17a" />
+<img width="1066" height="628" alt="CSV Data Persistence System UML Diagram" src="https://github.com/user-attachments/assets/3a4af07c-5913-40f8-b136-0fefbf02f17a" />
 
 ---
 ## 📁 Repository Structure
