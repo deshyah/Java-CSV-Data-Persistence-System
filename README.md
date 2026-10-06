@@ -1,4 +1,4 @@
-# Inventory & Personnel Record Manager
+# Java CSV Data Persistence System
 
 ## 📖 Description
 A Java-based data persistence utility designed to manage personnel and inventory records. This system allows users to generate, store, and retrieve object data using standard CSV (Comma-Separated Values) files.
